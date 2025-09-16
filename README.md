@@ -1,7 +1,3 @@
-Got it 👍 — the content is correct, but the formatting is breaking in a few places (lists, code blocks, and section headers).
-Here’s the **cleaned-up version** you can copy directly into `README.md`:
-
-```markdown
 # Iris Dataset Analysis 🌸
 
 This project analyzes the famous **Iris flower dataset** using Python, pandas, seaborn, and matplotlib.  
@@ -74,5 +70,3 @@ It includes data exploration, statistical summaries, and multiple visualizations
 * You can modify `iris_analysis.py` to explore other features or customize plots.
 
 ---
-```
-
